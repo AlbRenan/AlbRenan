@@ -16,7 +16,7 @@
 <li>Análise em Desenvolvimento de Sistemas - Segundo semestre</li>
 
 <h1>🔗 LinkedIn</h1>
-<li><a href="https://www.linkedin.com/in/renan-albuquerque-28b365269/">LinkedIn</a></li>
+<li><a href="https://www.linkedin.com/in/renan-albuquerque-28b365269/" target="_blank">LinkedIn</a></li>
 
 ---
 Volte sempre! 🫡
