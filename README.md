@@ -1,5 +1,14 @@
-## Renan Albuquerque - Desenvolvedor Front-End
+ <h1>Renan Albuquerque - Desenvolvedor Front-End 👨‍💻</h1> 
+- Olá, seja bem-vindo ao meu perfil do GitHub! Sou um jovem desenvolvedor Front-End, e que está buscando entrar no mercado de desenvolvedor.
+- Atualmente trabalho como Técnico de Informática! Sou formado no Curso Técnico em Desenvolvimento de Sistemas, e atualmente estou cursando no segundo semestre o Tecnólogo em Análise e Desenvolvimento em Sistemas. Sempre estou em busca de oportunidades para aprender e crescer profissionalmente.
 
+ <h1>Habilidades 🫡</h1> 
+- HTML
+- CSS
+- BootStrap (Básico)
+- PHP (Básico)
+- MYSQL
+- Git/GitHub
 <!--
 **AlbRenan/AlbRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
