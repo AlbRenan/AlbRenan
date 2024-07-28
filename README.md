@@ -17,6 +17,9 @@
 
 <h1>🔗 LinkedIn</h1>
 <li><a href="https://www.linkedin.com/in/renan-albuquerque-28b365269/">LinkedIn</a></li>
+
+---
+Volte sempre! 🫡
 <!--
 **AlbRenan/AlbRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
