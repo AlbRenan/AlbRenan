@@ -5,8 +5,8 @@
 <h1>✨ Habilidades</h1> 
 <li>HTML</li>
 <li>CSS</li>
-<li>BootStrap (Básico)</li>
-<li>Wordpress</li>
+<li>BOOTSTRAP (Básico)</li>
+<li>WORDPRESS</li>
 <li>PHP (Básico)</li>
 <li>MYSQL</li>
 <li>Git/GitHub</li>
