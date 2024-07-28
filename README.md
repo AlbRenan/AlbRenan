@@ -16,7 +16,7 @@
 <li>Análise em Desenvolvimento de Sistemas - Segundo semestre</li>
 
 <h3>LinkedIn</h3>
-<li>https://www.linkedin.com/in/renan-albuquerque-28b365269/</li>
+<a href"https://www.linkedin.com/in/renan-albuquerque-28b365269/">LinkedIn</a>
 <!--
 **AlbRenan/AlbRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
