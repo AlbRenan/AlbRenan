@@ -7,8 +7,8 @@
 <li>CSS</li>
 <li>BootStrap (Básico)</li>
 <li>Wordpress</li>
-<li>PHP (Básico)<li>
-<li>MYSQL<li>
+<li>PHP (Básico)</li>
+<li>MYSQL</li>
 <li>Git/GitHub</li>
 <!--
 **AlbRenan/AlbRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
